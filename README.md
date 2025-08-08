@@ -1,4 +1,4 @@
-# Softwware Engineer  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Karimansor.readme" />
+# Software Engineer  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Karimansor.readme" />
 
 I am a Software Engineer and researcher with a strong mathematical background. I specialize in machine learning, natural language processing (NLP), and deep learning, focusing on building scalable AI systems with cloud technologies and automation. My work emphasizes practical, data-driven solutions.
 
